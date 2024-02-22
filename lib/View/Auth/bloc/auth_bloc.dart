@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'dart:developer';
 
 import 'package:coursia/Model/account_register_model.dart';
 import 'package:coursia/Model/email_verify_response_model.dart';

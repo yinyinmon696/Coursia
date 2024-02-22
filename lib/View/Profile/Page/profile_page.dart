@@ -134,8 +134,8 @@ class ProfilePage extends StatelessWidget {
           //     surffixIcon: Icons.keyboard_arrow_right_outlined),
           InkWell(
             onTap: () {},
-            child: Row(
-              children: const [
+            child: const Row(
+              children: [
                 Icon(
                   Icons.auto_awesome_mosaic,
                   color: AppTheme.blackLight,
